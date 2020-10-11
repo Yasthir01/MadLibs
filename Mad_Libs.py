@@ -20,7 +20,7 @@ while True:
         person_1 = input("Enter the name of first person: ")
         person_2 = input("Enter the name of second person: ")
         
-        # questions start from here . 19 questions in total
+        # questions start from here . 18 questions in total
         # all based on the actual questions from Jimmy Fallon
         male_name = input("Male name: ").lower()
         favourite_teacher = input("Favourite teacher: ").lower()
